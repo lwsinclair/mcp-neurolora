@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aindreyway-mcp-neurolora-badge.png)](https://mseep.ai/app/aindreyway-mcp-neurolora)
+
 # MCP Neurolora
 
 ![MCP Server](https://img.shields.io/badge/MCP-Server-blue)
